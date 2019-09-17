@@ -1,5 +1,5 @@
 {
-  "name": "react-16.6",
+  "name": "react-suspense-lazy-load-sample",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
